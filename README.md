@@ -22,11 +22,6 @@ No external file/database is required.
 
 ---
 
-## 🛠️ Requirements
-- Python 3.x (no external libraries required)
-
----
-
 ##  How to Run
 1. Save the code in a file named `game_management.py`  
 2. Open terminal/command prompt and run:
